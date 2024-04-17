@@ -1,0 +1,52 @@
+|1D100|AKTION|BESCHREIBUNG|
+|-|-|-|
+| 1-2 | erlangen | künstlich |
+| 3-4 | profitieren | schön |
+| 5-6 | verraten |düster|
+| 7-8 | brechen |hell|
+| 9-10 | aufbürden |sauber|
+| 11-12 | verändern |kalt|
+| 13-14 | Charakter |bunt|
+| 15-16 | kommunizieren |beschädigt|
+| 17-18 | Wettbewerb |gefährlich|
+| 19-20 | Abschluss |dunkel|
+| 21-22 | Konflikt |schmutzig|
+| 23-24 | Kontrolle |unangenehm|
+| 25-26 | erschaffen |leer|
+| 27-28 | Gefahr |extravagant|
+| 29-30 | Betrug |schwach|
+| 31-32 | verringern |duftend|
+| 33-34 | Verzögerung |erschreckend|
+| 35-36 | Entfernt |voll|
+| 37-38 | Emotionen |gesund|
+| 39-40 | Feinde |schwer|
+| 41-42 | Umgebung |hilfreich|
+| 43-44 | Erwartungen |wichtig|
+| 45-46 | Misserfolg |unvollständig|
+| 47-48 | Ängste |mangelhaft|
+| 49-50 | Kämpfen |groß|
+| 51-52 | Gewinnen |leicht|
+| 53-54 | Ziele |laut|
+| 55-56 | Gut |mechanisch|
+| 57-58 | schaden |modern|
+| 59-60 | helfen |alltäglich|
+| 61-62 | Erhöhung |mysteriös|
+| 63-64 | Information |natürlich|
+| 65-66 | verlassen |neu|
+| 67-68 | bewegen |offiziell|
+| 69-70 | alltäglich |alt|
+| 71-72 | Natur |friedlich|
+| 73-74 | Negativ |perfekt|
+| 75-76 | NPC |mächtig|
+| 77-78 | Objekt |ruhig|
+| 79-80 | Hindernis |beruhigend|
+| 81-82 | Amtsperson |verfault|
+| 83-84 | PC |grob|
+| 85-86 | positiv |ruiniert|
+| 87-88 | Fortschritt |rustikal|
+| 89-90 | Rückschlag |einfach|
+| 91-92 | anfangen| klein|
+| 93-94 | aufhören |fremd|
+| 95-96 | seltsam |stilvoll|
+| 97-98 | überraschend |wertvoll|
+| 99-100 | Ungewissheit |warm|
