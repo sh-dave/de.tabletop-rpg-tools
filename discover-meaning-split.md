@@ -1,4 +1,4 @@
-| 1D100 | AKTION| BESCHREIBUNG | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1D100 | AKTION | BESCHREIBUNG |
+| 1D100 | AKTION| BESCHREIBUNG | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1D100 | AKTION | BESCHREIBUNG |
 |-|-|-|-|-|-|-|
 | 1-2 | erlangen | künstlich | | 51-52 | Gewinnen |leicht|
 | 3-4 | profitieren | schön | | 53-54 | Ziele |laut|
